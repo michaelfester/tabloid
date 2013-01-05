@@ -7,6 +7,8 @@ Note: Chrome Beta channel or later needs to be installed in order for the plugin
 * If Developer mode has a + by it, click the + to add developer information to the page. The + changes to a -, and more buttons and information appear.
 * Click the Load unpacked extension button. A file dialog appears.
 * In the file dialog, navigate to the extension's folder and click OK.
+* 
+* Alternatively, install it from the Chrome Web Store: https://chrome.google.com/webstore/detail/femidpfpildjfepkcaodpalpakgadjih
 
 ## Usage
 
