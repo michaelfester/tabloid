@@ -23,6 +23,6 @@ A separate extension, tabasco, adds the following shortcuts to Chrome
 * Close Tabs to the right
 * Pin tab
 
-Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are included in tabloid.
+Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are not included in tabloid.
 
 You can fetch tabasco here: https://github.com/michaelfester/tabasco
