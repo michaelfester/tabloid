@@ -2,7 +2,7 @@
   "name": "Tabloid",
   "version": "0.1",
   "manifest_version": 2,
-  "description": "Move tabs",
+  "description": "Chrome extension adding shortcuts for moving tabs around",
   "permissions": [
     "tabs"
   ],
