@@ -8,7 +8,7 @@
 
 ## Usage
 
-The extension consists in four keyboard shortcuts:
+The extension consists of four keyboard shortcuts:
 
 * Alt-Shift-L: move tab one position to the right
 * Alt-Shift-H: move tab one position to the left
@@ -17,12 +17,12 @@ The extension consists in four keyboard shortcuts:
 
 ## Tabasco
 
-The extension 'tabasco' adds the following shortcuts to Chrome
+A separate extension, tabasco, adds the following shortcuts to Chrome
 
 * Close other Tabs
-* Close Tabs for the right
+* Close Tabs to the right
 * Pin tab
 
-Unfortunately, Chrome extensions currently only allow for a maximum of four shortcuts, so they cannot be included in the following extension.
+Chrome extensions currently only allow for a maximum of four shortcuts, which is why they are included in tabloid.
 
 You can fetch tabasco here: https://github.com/michaelfester/tabasco
