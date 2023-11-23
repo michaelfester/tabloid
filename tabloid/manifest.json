@@ -1,11 +1,10 @@
 {
   "name": "Keyboard Shortcuts to Reorder Tabs",
-  "version": "0.5",
-  "manifest_version": 2,
+  "version": "1.0.0",
+  "manifest_version": 3,
   "description": "Chrome extension adding shortcuts for moving tabs around",
   "background": {
-    "persistent": false,
-    "scripts": ["background.js"]
+    "service_worker": "background.js"
   },
   "commands": {
     "move-tab-right": {
